@@ -4,7 +4,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://archinomicon.github.io',
+  site: 'https://archinomicon.ru',
+  // site: 'https://archinomicon.github.io',
   base: '',
   integrations: [
     starlight({
@@ -13,7 +14,7 @@ export default defineConfig({
         {
           icon: 'github',
           label: 'GitHub',
-          href: 'https://github.com/archinomicon/archinomicon.github.io',
+          href: 'https://github.com/archinomicon',
         },
       ],
       sidebar: [
