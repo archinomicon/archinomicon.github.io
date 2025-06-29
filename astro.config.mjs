@@ -9,7 +9,7 @@ export default defineConfig({
   base: '',
   integrations: [
     starlight({
-      title: 'Archinomicon',
+      title: 'archinomicon',
       social: [
         {
           icon: 'github',
