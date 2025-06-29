@@ -22,14 +22,9 @@ export default defineConfig({
           label: 'The Book',
           autogenerate: { directory: 'book' },
           // items: [
-          //   // Each item here is one entry in the navigation menu.
           //   { label: 'The Book', slug: 'book/introduction' },
           // ],
         },
-        // {
-        //   label: 'Blog',
-        //   autogenerate: { directory: 'blog' },
-        // },
       ],
     }),
   ],
