@@ -15,13 +15,15 @@ description: Развитие Архитектурной функции
 
   
 ## Tech Radar
+Technology Radar (или Tech Radar) был в широкую архитектурную практику и популяризирован компанией [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar)(https://www.thoughtworks.com/). Он наглядно показывает прогресс в обновлении технологий в компании по циклу: adopt-trial-assess-hold. 
+Хорошим примером является Tech Radar компании Zalando, который мы будем использовать далее:
+[Zalando Tech Radar](https://opensource.zalando.com/tech-radar/)
+
 Tech Radar - особенно полезный артефакт при большом количестве изменений в организации.
 Примерами могут являться импортозамещение, смена собственников, реструктуризация и т.п. 
 
 Tech Radar обычно хорошо воспринимается как техническими специалистами, так и бизнес-пользователями и, поэтому, очень полезен при обсуждении вопросов технологической стратегии. 
 
-В сети также имеются хорошие  
-[Zalando Tech Radar](https://github.com/zalando/tech-radar)
 
 
 ## Архитектурный реестр
