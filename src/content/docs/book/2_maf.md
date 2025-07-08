@@ -111,7 +111,7 @@ description: Minimal Architecture Framework
 Классический подход ведения ADR - markdown-файлы, хранящиеся в git-репозитории.
 Однако, если ваш архитектурный репозиторий хранится в другой системе (Confluence, etc.), то логично вести ADR там же. Отметим, что Confluence имеет специальный шаблон страниц для ведения ADR.
 
-Первый шаг при внедрении ADR - выбор шаблона ведения ваших записей. В сети можно найти много вариантов подобных шаблонов. Начать можно с изучения Githab.com. Н
+Первый шаг при внедрении ADR - выбор шаблона ведения ваших записей. В сети можно найти много вариантов подобных шаблонов. Начать можно с изучения Githab.com. 
 Например, репозиторий [Architecture decision record](https://github.com/joelparkerhenderson/architecture-decision-record) содержит большой набор вариантов и примеров ADR.
 
 Для наших целей подойдет простейший шаблон на основе Markdown, например шаблон [Michael Nygard](https://github.com/joelparkerhenderson/architecture-decision-record/tree/main/locales/en/templates/decision-record-template-by-michael-nygard).
