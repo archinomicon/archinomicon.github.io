@@ -8,8 +8,16 @@ export default defineConfig({
   base: '',
   integrations: [
     starlight({
+      logo: {
+        src: './src/assets/logo.svg',
+      },
       title: 'archinomicon',
       social: [
+        {
+          icon: 'email',
+          label: 'EMail',
+          href: 'mailto:archinomicon@yandex.ru',
+        },
         {
           icon: 'github',
           label: 'GitHub',

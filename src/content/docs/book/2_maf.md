@@ -4,7 +4,7 @@ description: Minimal Architecture Framework
 ---
 
 Продемонстрируем разницу подходов на примере архитектурных циклов для MAF:
-![MAF](../../../assets/maf.png)
+![MAF](../../../assets/maf-cycle.png)
 и для TOGAF:
 ![TOGAF](../../../assets/adm.jpg) 
 
