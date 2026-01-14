@@ -1,12 +1,14 @@
 ---
-title: 2. Minimal Architecture Framework
-description: Minimal Architecture Framework
+title: 2. MAF vs. TOGAF
+# description: Minimal Architecture Framework
 ---
 
 Продемонстрируем разницу подходов на примере архитектурных циклов для MAF:
-![MAF](../../../assets/maf-cycle.png)
+<img src="/maf-cycle.png" alt="MAF" width="500" />
+<!-- ![MAF](../../../assets/maf-cycle.png) -->
 и для TOGAF:
-![TOGAF](../../../assets/adm.jpg) 
+<img src="/adm.jpg" alt="TOGAF ADM" width="500" />
+<!-- ![TOGAF](../../../assets/adm.jpg)  -->
 
 Как видите, в MAF этапов принципиально меньше. А сами этапы имеют более очевидный практический смысл. Давайте рассмотрим каждый из них. 
 Т.к. мы строим минимально-жизнеспособный архитектурный процесс, нас будет также интересовать, можно ли обойтись без какого-то из этих этапов.
