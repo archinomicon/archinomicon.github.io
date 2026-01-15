@@ -49,9 +49,11 @@ title: 1. Minimal Architecture Framework
 Результаты архитектурной деятельности накапливаются в виде архитектурных артефактов.
 В рамках MAF мы определим минимальный набор архитектурных артефактов для поддержки процесса Корпоративной архитектуры.
 
- Stage                 | Artifacts             
------------------------|------------------------
- Context Analysis      | Requirements, ADRs                  
- Target Architecture   | Diagrams, Requirements
- Architecture Decision | ADRs                  
- Architecture Control  | Requirements          
+ Stage                 | Artifacts              | Owner
+-----------------------|------------------------|---------------------
+ Context Analysis      | Requirements, ADRs*    | Corporate Architect           
+ Target Architecture   | Requirements, Diagrams | Corporate Architect
+ Architecture Decision | Diagrams, ADRs         | Architecture Board         
+ Architecture Control  | Diagrams, Requirements | Corporate Architect
+
+ * ADR - Architecture Decision Record
